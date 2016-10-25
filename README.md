@@ -22,3 +22,62 @@ func main(){
 // other OS
  ❯
 ```
+
+## Support Figures
+
+- tick
+- cross
+- star
+- square
+- squareSmall
+- squareSmallFilled
+- play
+- circle
+- circleFilled
+- circleDotted
+- circleDouble
+- circleCircle
+- circleCross
+- circlePipe
+- circleQuestionMark
+- bullet
+- dot
+- line
+- ellipsis
+- pointer
+- pointerSmall
+- info
+- warning
+- hamburger
+- smiley
+- mustache
+- heart
+- arrowUp
+- arrowDown
+- arrowLeft
+- arrowRight
+- radioOn
+- radioOff
+- checkboxOn
+- checkboxOff
+- checkboxCircleOn
+- checkboxCircleOff
+- questionMarkPrefix
+- oneHalf
+- oneThird
+- oneQuarter
+- oneFifth
+- oneSixth
+- oneSeventh
+- oneEighth
+- oneNinth
+- oneTenth
+- twoThirds
+- twoFifths
+- threeQuarters
+- threeFifths
+- threeEighths
+- fourFifths
+- fiveSixths
+- fiveEighths
+- sevenEighths
